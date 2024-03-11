@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : 'Mingyu_Hwang'
+  name             : "황민규"
   avatar           : "/assets/images/황민규.jpg"
   bio              : "🏃🏻‍♂️나는 항상 달리는 사람이다."
   location         : "Seoul, Korea"
-  email            : "suted321@gmail.com
+  email            : "suted321@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
