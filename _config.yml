@@ -18,7 +18,7 @@ minimal_mistakes_skin    :  "contrast" # "air", "aqua", , "dark", "dirt", "neon"
 locale                   : "ko-KR"
 title                    : "MG-Jaban"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "꾸준하게 어제보다 발전하기"
 name                     : "황민규"
 description              : "노력하는 사람."
 url                      : "https://suted2.github.io"
